@@ -1,4 +1,4 @@
-# Quant-Platform
+# Quant-Platform (Work in Progress)
 
 This is a public breakdwon of one of my projects. I do not think I will making the code public at the moment.
 Essentially my goal is build a quant platform that is similar to the Bloomberg Terminal. In essence it will aggregate data from multiple sources and allow the user to analyze Financial Information. This is an ambitious project and will take time. This repository will summarize any major milestones I hit througout building this projet.
