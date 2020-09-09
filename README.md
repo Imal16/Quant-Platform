@@ -35,7 +35,7 @@ Pandas, Numpy, NLTK,
 ### Using Alternative Data
 
 #### Sept. 9, 2020
-I am currently working on an alternative data source which requires webscrapping/parsing through a social media platform. I am currently not finished with this part of the project yet. Currently I am having trouble thinking of a way to fully grasp the necessay data. The reason is with social media post, there is various slang being used, different syntax and different ways of writing the same message. I am using the NLTK package to clean and parse through the data, but also want to find a more effective way of doing so since one 'parse' collects thousandx of post and comments, meaning you can have around 10,000 words.
+I am currently working on an alternative data source which requires webscrapping/parsing through a social media platform. I am currently not finished with this part of the project yet. Currently I am having trouble thinking of a way to fully grasp the necessay data. The reason is with social media post, there is various slang being used, different syntax and different ways of writing the same message. I am using the NLTK package to clean and parse through the data, but also want to find a more effective way of doing so since one 'parse' collects thousandsof post and comments, meaning you can have around 10,000 words per parse. I want to effective extract the necessary information, without discarding anything meaningful
 
 
 
