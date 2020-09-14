@@ -1,17 +1,19 @@
 # Quant-Platform (Work in Progress)
 
-This is a public breakdwon of one of my projects. I do not think I will making the code public at the moment.
-Essentially my goal is build a quant platform that is similar to the Bloomberg Terminal. In essence it will aggregate data from multiple sources and allow the user to analyze Financial Information. This is an ambitious project and will take time. This repository will summarize any major milestones I hit throughout building this projet.
+This is a public breakdown of one of my projects. I do not think I will making the code public at the moment.
+Essentially my goal is build a platform that is similar to the Bloomberg Terminal. In essence it will aggregate data from multiple sources and allow the user to analyze Financial Information. This is an ambitious project and will take time. This repository will summarize any major milestones I hit throughout building this projet.
+
+What drives my interet for the stock market? Simple, it's one of the most complicated, difficult and challenging games in the world. Only a handful of people are able to consistently 'beat' the market.
 
 ### Motivation
 
-My motiation for this project is pretty simple, I have a passion in the financial markets and this project allows me to combine my technical abilities and passsion to create a fun project. Secondly, there is so many different ideas that can be implemented. 
+My motiation for this project is pretty simple, I have a passion in the financial markets and this project allows me to combine my technical abilities and passsion to create a fun project. Secondly, there is so many different ideas that can be implemented, which encourages learning and overcoming challenges/
 
 For example, I took a Data Analysis in Economic course which main focus is working with time series data and the various implications of it such as hetergeneity, cointegration, NonStationary Timeseries, and autocorrelation. We also touched on various models such as OLS, Geometric Lag models, GLS, ARDL, ARCH, GARCH, and VAR models. I also took an Econometrics course which covers different regression techniques in depth for timeseries data. (Hypothesis testing, cofidence intervals, p-values, and different test-statistics (F-test, T-test, Chi-Square) were a constantly used in both course).
 
 I can take the topics covered in the non Computer Science course I took and implement in this project.
 
-Another Set of ideas can be the use of AI and ML, like using NLP on news or social media, working with various model to try prediicions ( LTSM, Neural Nets,Random Forest, Linear Regression etc...)
+Another Set of ideas can be the use of AI and ML, like using NLP on news or social media, working with various model to try prediicions ( LTSM, Neural Nets,Random Forest, Linear Regression etc...). I am currently taking both an ML and AI course, so this implementation might be pushed to a later date (when I have a beter grasp of the different models and applications).
 
 Collecion and anlysis of Alternative data can be another idea to be implemented in this project. Use of calculus, stochastic calculus, Financial Derivative modeling, Probabliity and Statistics concepts are other ideas as well.
 
@@ -24,7 +26,7 @@ As you can see this project offers almost endless ideas and allows me to work an
 Currently, I am using a Python back-end. For the Front-end I am simiplifying my life a bit by using Plotly Dash to create the Dashboard. This allows me to use Python to interact with the Dashboard and use HTML to shape it and CSS to style it. 
 
 
-Both Git and Github are being used, and certain APIs are being used to obtain data.
+Both Git and Github are being used for version control, and certain APIs are being used to obtain data.
 
 ##### Significant Python Packages Used
 
