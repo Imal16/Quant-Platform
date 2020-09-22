@@ -1,7 +1,7 @@
 # Quant-Platform (Work in Progress)
 
 This is a public breakdown of one of my projects. I do not think I will making the code public at the moment.
-Essentially my goal is build a platform that is similar to the Bloomberg Terminal. In essence it will aggregate data from multiple sources and allow the user to analyze Financial Information. This is an ambitious project and will take time. This repository will summarize any major milestones I hit throughout building this projet.
+Essentially my goal is build a platform that is similar to a simplified and curated Bloomberg Terminal. In essence it will aggregate data from multiple sources and allow the user to analyze Financial Information. This is an ambitious project and will take time. This repository will summarize any major milestones I hit throughout building this projet.
 
 What drives my interet for the stock market? Simple, it's one of the most complicated, difficult and challenging games in the world. Only a handful of people are able to consistently 'beat' the market.
 
